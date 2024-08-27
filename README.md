@@ -45,7 +45,7 @@ If you double click any test under the **ChopsticksTests**, you will be able to 
 
 ## Transaction Analyzer in PlutoWallet
 
-In the Plutowallet, the Analyzer code can be found in **Plutowallet.Model >> ChopsticksModel.cs**. There you can find the interfaces for the client-server communication and mainly the `ChopsticksModel.SimulateCallAsync` and `ChopsticksModel.SimulateXcmCallAsync`.
+In the Plutowallet, the Analyzer code can be found in **Plutowallet.Model >> ChopsticksModel.cs**. There you can find the interfaces for the client-server communication and mainly the `ChopsticksModel.SimulateCallAsync` and `ChopsticksModel.SimulateXcmCallAsync` which facilitate the communication with Chopsticks run on Server.
 
 Also in the **PlutoWallet >> Components >> TransactionAnalyzer**, you can find the UI Components used for displaying the analysis results.
 
