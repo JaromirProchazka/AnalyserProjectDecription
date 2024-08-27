@@ -42,3 +42,7 @@ Here you can navigate to the upper bar, where you go to **View >> Test Explorer*
 If you double click any test under the **ChopsticksTests**, you will be able to find the source code for the test. If you `right-click` any test (like SimulateXcmCallAsync for instance) and click **Run**, the test runs and you will be able to see the resulting events of a XCM Transaction between Hydration and PolkadotAssetHub chains.
 
 ![Alt Text](/images/run_test.png)
+
+## Conclusion
+
+Now you have created a local copy of the PlutoWallet on your device, throw the test run a Chopsticks on the server and fetched the resulting events.
